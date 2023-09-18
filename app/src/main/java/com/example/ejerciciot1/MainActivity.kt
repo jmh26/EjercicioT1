@@ -10,12 +10,12 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 
-        val fondoBoton = findViewById<Button>(R.id.)
+        //val fondoBoton = findViewById<Button>(R.id.)
         val boton = findViewById<Button>(R.id.button)
 
         boton.setOnClickListener{
             boton.text="Enviado"
-            boton.
+
         }
     }
 }
